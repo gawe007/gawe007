@@ -1,5 +1,4 @@
-I'm here to do whatever i had to.
-mail me if you're interested.
+Don't
 
 <!---
 gawe007/gawe007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
